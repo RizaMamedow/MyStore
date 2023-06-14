@@ -1,0 +1,14 @@
+server/db.sqlite3
+server/venv/
+server/static/
+server/media/
+server/.idea/
+server/*/__init__.py
+server/*/migrations/
+server/*/__pycache__/
+
+
+client/.idea/
+client/node_modules/
+
+.idea/
